@@ -24,21 +24,12 @@ This lab simulates a **production-style architecture** where static assets are d
 - Verified connectivity across **tiers** (web → app → db placeholder)  
 
 ---
-
-## 📸 Screenshots & Diagrams  
-
-### VPC + Subnet Diagram  
-![VPC Diagram](./screenshots/vpc-diagram.png)  
-
-### S3 Static Bucket Setup  
-![S3 Bucket](./screenshots/s3-bucket.png)  
-
-### EC2 Configuration & Security Groups  
-![EC2 Setup](./screenshots/ec2-setup.png)  
-
-### Web App Output (with logo + styling)  
-![Web App](./screenshots/webapp-output.png)  
-
+## 📸 Screenshots & Diagrams
+MySQLConnectDiagram.png
+MariaDBConnectDiagram.png
+EC2SGDiagram.png
+EC2-Instance-Diagram.png
+AmazonLinuxConnectDiagram.png
 ---
 
 ## ✅ Skills Demonstrated
