@@ -41,4 +41,4 @@ This lab simulates a **production-style architecture** where static assets are d
 
 ---
 
-📂 **Repository:** [Lab 6 – AWS 3-Tier Web Application](https://github.com/BZA2025/Lab6)  
+📂 **Repository:** [Lab 6 – AWS 3-Tier Web Application]  
