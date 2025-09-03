@@ -24,13 +24,6 @@ This lab simulates a **production-style architecture** where static assets are d
 - Verified connectivity across **tiers** (web → app → db placeholder)  
 
 ---
-## 📸 Screenshots & Diagrams
-MySQLConnectDiagram.png
-MariaDBConnectDiagram.png
-EC2SGDiagram.png
-EC2-Instance-Diagram.png
-AmazonLinuxConnectDiagram.png
----
 
 ## ✅ Skills Demonstrated
 - AWS 3-Tier Web App deployment  
@@ -48,4 +41,4 @@ AmazonLinuxConnectDiagram.png
 
 ---
 
-📂 **Repository:** [Your GitHub Repo Link]
+📂 **Repository:** [Lab 6 – AWS 3-Tier Web Application](https://github.com/BZA2025/Lab6)  
